@@ -16,9 +16,14 @@
       "price": 5000
     },
     {
-        "id": 4,
+      "id": 4,
       "name": "Celular Xaiome",
-      "price": "3500"
+      "price": 3521.98
+    },
+    {
+      "name": "maconha",
+      "price": "150",
+      "id": 5
     }
   ]
 }
